@@ -103,6 +103,7 @@ export const useTiltEffect = (elementRef: RefObject<HTMLElement | null>, setting
 
     return {
         updateStyles: updateStyles,
+        updateElementPosition: updateElementPosition,
         styles: {
             willChange: 'transform',
             transition: `${speed}ms ${easing}`,

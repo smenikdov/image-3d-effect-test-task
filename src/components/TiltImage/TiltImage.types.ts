@@ -11,6 +11,7 @@ export interface TiltEffectSettings {
 
 export interface TiltEffectReturn {
     updateStyles: () => void;
+    updateElementPosition: () => void;
     styles: React.CSSProperties;
 }
 
