@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Bebas+Neue&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap);body{background-color:#e0e0e0;font-family:PT Sans,sans-serif;font-style:normal;font-weight:400;margin:0}*{box-sizing:border-box}.app{align-items:center;display:flex;flex-direction:column;justify-content:center;min-height:100vh}.cat-image{box-shadow:0 20px 70px -10px #333333b3,0 50px 100px 0 #3333;height:auto;width:400px}@media(max-width:600px){.cat-image{margin:5vw;width:90vw}}
+/*# sourceMappingURL=main.2c6b6627.css.map*/
